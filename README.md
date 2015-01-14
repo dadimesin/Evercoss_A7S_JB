@@ -14,7 +14,7 @@ export CROSS_COMPILE="/home/dadi/android/toolchain/arm-eabi-linaro-4.6.2/bin/arm
 
 Kernel
 ______
-cd <kernel directory>
+cd kernel directory
 
 Build Command :
 
